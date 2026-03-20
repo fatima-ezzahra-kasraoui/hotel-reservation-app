@@ -1,11 +1,34 @@
-# Sample Snack app
+# Hotel-reservation 🏨
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+A React Native mobile app for booking hotel rooms in Paris neighborhoods.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+## Live Demo
+🔗 [Open in Expo Snack](https://snack.expo.dev/@fatiii9i9/hotel-reservation)
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+## Features
+- Choose check-in and check-out dates
+- Filter rooms by Parisian neighborhood
+- View room photos, prices and star ratings
+- Calculate total price automatically
+- Confirm booking
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
+## Screenshots
+Coming soon
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+## Built with
+- React Native
+- Expo
+- react-native-dropdown-picker
+- @expo/vector-icons
+- @react-native-community/datetimepicker
+
+## How to run
+1. Clone the repo
+2. Run `npm install`
+3. Run `npx expo start`
+
+Or open directly in Expo Snack:
+🔗 https://snack.expo.dev/@fatiii9i9/hotel-reservation
+
+## Author
+[@fatiii9i9](https://github.com/fkasraoui5160-design)
