@@ -1,4 +1,4 @@
-# Hotel-reservation 🏨
+# Hotel-reservation 
 
 A React Native mobile app for booking hotel rooms in Paris neighborhoods.
 
